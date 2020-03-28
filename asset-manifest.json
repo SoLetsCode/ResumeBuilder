@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ResumeBuilder/static/css/main.a2a8d142.chunk.css",
+    "main.js": "/ResumeBuilder/static/js/main.9fd18228.chunk.js",
+    "main.js.map": "/ResumeBuilder/static/js/main.9fd18228.chunk.js.map",
+    "runtime-main.js": "/ResumeBuilder/static/js/runtime-main.9d5f2e34.js",
+    "runtime-main.js.map": "/ResumeBuilder/static/js/runtime-main.9d5f2e34.js.map",
+    "static/js/2.9246e312.chunk.js": "/ResumeBuilder/static/js/2.9246e312.chunk.js",
+    "static/js/2.9246e312.chunk.js.map": "/ResumeBuilder/static/js/2.9246e312.chunk.js.map",
+    "index.html": "/ResumeBuilder/index.html",
+    "precache-manifest.bf037e64c5bd8c0a540d06b2cb2b0dcd.js": "/ResumeBuilder/precache-manifest.bf037e64c5bd8c0a540d06b2cb2b0dcd.js",
+    "service-worker.js": "/ResumeBuilder/service-worker.js",
+    "static/css/main.a2a8d142.chunk.css.map": "/ResumeBuilder/static/css/main.a2a8d142.chunk.css.map",
+    "static/js/2.9246e312.chunk.js.LICENSE.txt": "/ResumeBuilder/static/js/2.9246e312.chunk.js.LICENSE.txt",
+    "static/media/cpu.svg": "/ResumeBuilder/static/media/cpu.d1276a49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5f2e34.js",
+    "static/js/2.9246e312.chunk.js",
+    "static/css/main.a2a8d142.chunk.css",
+    "static/js/main.9fd18228.chunk.js"
+  ]
+}
